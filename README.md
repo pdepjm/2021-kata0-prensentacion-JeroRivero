@@ -1,5 +1,7 @@
 # Presentación
 
+Me gusta jugar valorant y lol
+
 ## Estudiante: Rodrigo Jerónimo Rivero
 
 ![mi foto](foto.jpeg)
